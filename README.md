@@ -7,7 +7,7 @@
 ## параметры host:<br>
 *   `environments/dev/inventory_file`
   
-## Сборка имеджа и конфигурация dockre конетйнера.
+## Сборка имеджа и конфигурация docker конетйнера.
 
 * `ansible-playbook playbooks/playbook_app_swarm.yml`
 
