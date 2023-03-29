@@ -7,10 +7,10 @@
 ## параметры host:<br>
 *   `environments/dev/inventory_file`
   
-## Установка docker swarm и приложения
+## Сборка имеджа и конфигурация dockre конетйнера.
 
 * `ansible-playbook playbooks/playbook_app_swarm.yml`
 
-## Обновление приложения
+## Деплой контейнера в docker swarm
 
 * `ansible-playbook playbooks/playbook_update_app.yml`
